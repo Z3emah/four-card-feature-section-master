@@ -10,7 +10,7 @@ This is a solution to the [Four card feature section challenge on Frontend Mento
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [https://github.com/Z3emah/four-card-feature-section-master](https://github.com/Z3emah/four-card-feature-section-master)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 
