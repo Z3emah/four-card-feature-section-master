@@ -7,6 +7,12 @@ body{
    align-content: center;
    padding: 30px;
 }
+.work-area{
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
+}
 .efficient-delivery-text{
    font-size: 19px;
    width: 300px;
@@ -33,7 +39,7 @@ body{
    text-align: center;
 }
 
-.container{
+.grid-container{
    display: grid;
    grid-template-columns: repeat(5, 1fr);
    grid-template-rows: repeat(5, 1fr);
@@ -97,7 +103,7 @@ body{
    font-size: 10px;
     width: 200px;
 }
-.container{
+.grid-container{
    padding: 10px;
    justify-items: center;
    gap: 5px;
