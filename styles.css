@@ -27,8 +27,8 @@ body{
 .introduction-text{
    font-size: 6px;
    color:  hsl(234, 8%, 53%);
-   font-weight: 100;
-   width: 180px;
+   font-weight: 400;
+   width: 210px;
    justify-self: center;
    text-align: center;
 }
@@ -58,8 +58,8 @@ body{
 }
 .frame p{
    font-size: 7px;
-   width: 130px;
-   font-weight: 100;
+   width: 150px;
+   font-weight: 400;
    color: hsl(210, 7%, 59%);
 }
 .frame img{
@@ -95,7 +95,7 @@ body{
 }
 .introduction-text{
    font-size: 10px;
-    width: 180px;
+    width: 200px;
 }
 .container{
    padding: 10px;
